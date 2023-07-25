@@ -1,0 +1,16 @@
+[package]
+name = "escape_it_lib"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Converts white-space characters into their escaped versions in provided Strings"
+readme = "README.md"
+repository = "https://github.com/coruscateor/escape_it_lib"
+homepage = "https://coruscateor.com/projects/escape-it-lib"
+keywords = ["String", "escaping"]
+categories = ["parsing"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
